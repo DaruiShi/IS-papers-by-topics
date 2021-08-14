@@ -10,7 +10,7 @@ These papers are mainly from:
 * Journal of Management Information Systems
 
 ## 2. Themes and Index Files
-1. Financial Technology (FinTech)
-2. Information Security
+1. [Financial Technology (FinTech)](https://github.com/WaterSh/IS-papers-by-themes/blob/main/fintech.md)
+2. [Information Security](https://github.com/WaterSh/IS-papers-by-themes/blob/main/information%20security.md)
 3. Supply Chain Finance
 4. Dark Web
