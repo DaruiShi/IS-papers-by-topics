@@ -1,4 +1,4 @@
-# IS Papers by Themes
+# IS Papers by Topics
 This repository covers a series of top journal papers in information systems, **categorized by themes**.
 
 ## 1. Paper Sources/Top Journals
@@ -9,7 +9,7 @@ These papers are mainly from:
 * INFORMS Journal on Computing
 * Journal of Management Information Systems
 
-## 2. Themes and Index Files
+## 2. Topics and Index Files
 1. [Financial Technology (FinTech)](https://github.com/WaterSh/IS-papers-by-themes/blob/main/fintech.md)
 2. [Information Security](https://github.com/WaterSh/IS-papers-by-themes/blob/main/information%20security.md)
 3. Supply Chain Finance
